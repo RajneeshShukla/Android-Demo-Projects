@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MenuDemo</string>
+    <string name="prefrences">Prefrences</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="search">Search</string>
+    <string name="save">Save</string>
+    <string name="brookmark">Brookmark</string>
+</resources>

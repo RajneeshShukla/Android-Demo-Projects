@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SnakBarDemo</string>
+    <string name="show_snakbar">Show Snakbar</string>
+</resources>

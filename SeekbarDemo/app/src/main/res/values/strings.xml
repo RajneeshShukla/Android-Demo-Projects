@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SeekbarDemo</string>
+    <string name="seekbar_value">SeekBar Value</string>
+    <string name="_0">0%</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AlertDialogDemo</string>
+    <string name="button_1">Button 1</string>
+    <string name="button_3">Button 3</string>
+    <string name="button_2">Button 2</string>
+    <string name="my_alert_tittle">My Dialog</string>
+    <string name="alertbox_message">Welcome Rajneesh!</string>
+    <string name="my_alert">My Alert</string>
+    <string name="alert_box_message">Hello Rajneesh</string>
+    <string name="ok_btn">OK</string>
+    <string name="yes">Yes</string>
+    <string name="No">No</string>
+    <string name="no">No</string>
+    <string name="back">Back</string>
+</resources>

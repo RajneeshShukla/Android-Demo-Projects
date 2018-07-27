@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AutoCompleteTextViewDemo</string>
+
+    <string-array name="city">
+        <item>Kanpur</item>
+        <item>Kannauj</item>
+        <item>Delhi</item>
+        <item>Lucknow</item>
+        <item>Mumbai</item>
+        <item>Pune</item>
+        <item>Bangalore</item>
+        <item>Bhuvnaswar</item>
+        <item>Noida</item>
+        <item>Gagiyabad</item>
+        <item>Masoori</item>
+        <item>Hardoi</item>
+    </string-array>
+</resources>
